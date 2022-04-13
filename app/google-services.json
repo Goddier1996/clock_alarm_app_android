@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "857313361856",
+    "firebase_url": "https://list-1bebe-default-rtdb.firebaseio.com",
+    "project_id": "list-1bebe",
+    "storage_bucket": "list-1bebe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857313361856:android:dcf1e51c2d70e18a66d225",
+        "android_client_info": {
+          "package_name": "com.example.clock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857313361856-ku6n6lv96oask0jev85s052ngm4vjtec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf4CcGA-Whztz0fYeQHDvYmbwbX6NqyRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857313361856-ku6n6lv96oask0jev85s052ngm4vjtec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
