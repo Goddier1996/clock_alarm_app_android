@@ -4,7 +4,7 @@ in this app we have a clock alarm,and when you wont to close alarm you need go t
                                 
                                            home page :
                                           
-<img width="184" alt="image" src="https://user-images.githubusercontent.com/59862302/174897719-33ab3853-fd18-453d-95ff-9b626d246e01.png">
+![1](https://user-images.githubusercontent.com/59862302/174898287-34485b1b-8276-414a-a3e6-0025adab7adc.jpg)
 
                                           challenge 1 page :
                                           
