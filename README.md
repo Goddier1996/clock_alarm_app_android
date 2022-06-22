@@ -1,4 +1,4 @@
-# clock alarm app  -  Android(java)
+# clock alarm app  -  Android(java) 
 in this app we have a clock alarm,and when you wont to close alarm you need go through tasks
 
                                 
