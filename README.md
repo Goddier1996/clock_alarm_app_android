@@ -1,7 +1,11 @@
 # clock alarm app  -  Android(java) 
 in this app we have a clock alarm,and when you wont to close alarm you need go through tasks
 
-                                
+
+video project :
+
+https://user-images.githubusercontent.com/59862302/179349180-a5e08326-f403-4f7e-8d0f-560f48592c1b.mp4
+                             
 home page :
                                           
 ![1](https://user-images.githubusercontent.com/59862302/174898287-34485b1b-8276-414a-a3e6-0025adab7adc.jpg)
